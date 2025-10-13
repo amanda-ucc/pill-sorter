@@ -6,7 +6,7 @@ Trained a 1,199,686 parameter convolution neural network that classifies a pill 
 
 Can be seen here:  https://github.com/amanda-ucc/pill-sorter/blob/main/cnn-pill-sorter.ipynb
 
-Originally we were going build a device that could take that picture, classify the pill and sort it however we ran out of time for the device work. The model however functions exactly as intended. 
+Originally we were going build a device that could take that picture, classify the pill and sort it however we ran out of time for the device work. The model however functions exactly as I intended. We thought this could provide a valuable benefit for seniors as their vision deteriorates with age to ensure that they are getting the correct medication. Maybe in the future we can take this back up :)
 
 It uses:
 
